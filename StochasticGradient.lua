@@ -23,7 +23,7 @@ function StochasticGradient:train(dataset)
       end
    end
 
-   print("# StochasticGradient: training")
+   print("# StochasticGradient: lplptraining")
 
    while true do
       local currentError = 0
